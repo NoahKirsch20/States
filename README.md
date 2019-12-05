@@ -16,3 +16,10 @@ Within those states I have been to *biggest* cities inside them.
 - [Seattle](https://visitseattle.org/)
 - [St. Louis](https://en.wikipedia.org/wiki/St._Louis)
 - [Columbus](https://en.wikipedia.org/wiki/Columbus,_Ohio)
+
+### Navigation
+- [Home Page](https://noahkirsch20.github.io/FinalProject/)
+- [College Football](https://noahkirsch20.github.io/College-Football/)
+- [Comedies](https://noahkirsch20.github.io/Comedies/)
+- [Gaming](https://noahkirsch20.github.io/Gaming/)
+- [Outdoors](https://noahkirsch20.github.io/Outdoor/)
